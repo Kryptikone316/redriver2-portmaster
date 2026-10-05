@@ -1,0 +1,33 @@
+{
+  "version": 4,
+  "name": "redriver2.zip",
+  "items": [
+    "REDRIVER2.sh",
+    "redriver2"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "REDRIVER2",
+    "porter": [
+      "Kryptikone316"
+    ],
+    "desc": "REDRIVER2 is an open-source reimplementation of Driver 2 for the PlayStation. You need your own copy of the game: copy the DRIVER2 folder from your disc into ports/redriver2/DRIVER2 before launching. Game data is not included.",
+    "desc_md": null,
+    "inst": "Copy the DRIVER2 folder from your own Driver 2 disc into ports/redriver2/DRIVER2. The folder must contain FRONTEND.BIN. Then launch REDRIVER2 from the ports menu. Game data is not included with this port.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [],
+    "store": [],
+    "availability": "full",
+    "reqs": [],
+    "arch": [
+      "armhf"
+    ],
+    "min_glibc": ""
+  }
+}

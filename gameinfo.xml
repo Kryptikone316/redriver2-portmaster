@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./REDRIVER2.sh</path>
+    <name>REDRIVER2</name>
+    <desc>Open-source reimplementation of Driver 2, the PlayStation driving and undercover action game. Drive, chase and escape across the cities of the original game. Requires your own copy of the game data.</desc>
+    <releasedate>20001114T000000</releasedate>
+    <developer>Reflections Interactive</developer>
+    <publisher>Infogrames</publisher>
+    <genre>Action</genre>
+  </game>
+</gameList>
